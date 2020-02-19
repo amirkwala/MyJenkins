@@ -11,22 +11,22 @@
       <![CDATA[Passed Screen Shot]]>
     </line>
   </reporter-output>
-  <suite started-at="2020-02-18T15:03:13Z" name="Suite" finished-at="2020-02-18T15:03:13Z" duration-ms="145">
+  <suite started-at="2020-02-19T04:06:13Z" name="Suite" finished-at="2020-02-19T04:06:13Z" duration-ms="129">
     <groups>
       <group name="functional">
-        <method signature="testNGcase.login()[pri:0, instance:testcases.testNGcase@73eb439a]" name="login" class="testcases.testNGcase"/>
+        <method signature="testNGcase.login()[pri:0, instance:testcases.testNGcase@7e057f43]" name="login" class="testcases.testNGcase"/>
       </group> <!-- functional -->
     </groups>
-    <test started-at="2020-02-18T15:03:13Z" name="DefaultCase" finished-at="2020-02-18T15:03:13Z" duration-ms="57">
+    <test started-at="2020-02-19T04:06:13Z" name="DefaultCase" finished-at="2020-02-19T04:06:13Z" duration-ms="49">
       <class name="testcases.testNGcase">
-        <test-method signature="dologin()[pri:0, instance:testcases.testNGcase@73eb439a]" started-at="2020-02-18T15:03:13Z" name="dologin" finished-at="2020-02-18T15:03:13Z" duration-ms="10" status="PASS">
+        <test-method signature="dologin()[pri:0, instance:testcases.testNGcase@7e057f43]" started-at="2020-02-19T04:06:13Z" name="dologin" finished-at="2020-02-19T04:06:13Z" duration-ms="13" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Passed Screen Shot]]>
             </line>
           </reporter-output>
         </test-method> <!-- dologin -->
-        <test-method signature="login()[pri:0, instance:testcases.testNGcase@73eb439a]" started-at="2020-02-18T15:03:13Z" name="login" finished-at="2020-02-18T15:03:13Z" duration-ms="3" status="PASS">
+        <test-method signature="login()[pri:0, instance:testcases.testNGcase@7e057f43]" started-at="2020-02-19T04:06:13Z" name="login" finished-at="2020-02-19T04:06:13Z" duration-ms="2" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Passed Screen Shot]]>
@@ -35,9 +35,9 @@
         </test-method> <!-- login -->
       </class> <!-- testcases.testNGcase -->
     </test> <!-- DefaultCase -->
-    <test started-at="2020-02-18T15:03:13Z" name="Failure" finished-at="2020-02-18T15:03:13Z" duration-ms="13">
+    <test started-at="2020-02-19T04:06:13Z" name="Failure" finished-at="2020-02-19T04:06:13Z" duration-ms="6">
       <class name="testcases.TestFailure">
-        <test-method signature="mylogin()[pri:0, instance:testcases.TestFailure@eadd4fb]" started-at="2020-02-18T15:03:13Z" name="mylogin" finished-at="2020-02-18T15:03:13Z" duration-ms="4" status="PASS">
+        <test-method signature="mylogin()[pri:0, instance:testcases.TestFailure@723ca036]" started-at="2020-02-19T04:06:13Z" name="mylogin" finished-at="2020-02-19T04:06:13Z" duration-ms="3" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Passed Screen Shot]]>
