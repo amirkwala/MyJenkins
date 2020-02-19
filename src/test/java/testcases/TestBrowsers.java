@@ -39,6 +39,7 @@ public class TestBrowsers {
 		return true;
 	}catch (Throwable t)
 	
+	
 	{return false;
 	}
 	}
