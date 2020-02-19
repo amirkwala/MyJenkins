@@ -7,6 +7,6 @@ public class TestFailure {
 
 	@Test
 	public void mylogin() {
-		//Assert.fail("dologin failed");
+		Assert.fail("dologin failed");
 	}
 }
