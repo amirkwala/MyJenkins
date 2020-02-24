@@ -80,6 +80,6 @@ public class TestBrowsers {
 		ImageIO.write(screenshot.getImage(), "jpg", new File(".\\screenshot\\ashotimgelement.jpg"));
 
 		//driver.quit();
-
+		//
 	}
 }
